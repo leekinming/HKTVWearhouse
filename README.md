@@ -13,17 +13,24 @@
     1. Day1
         1. Build up the Mysql
         1. Find the sutible freamwork for this web application
+        
     1. Day2
         1. Implement the menthod to print out the database date
         1. create the four html file
         1. Find a way to read and import the csv file to MySql database
+        
     1. Day3
         1. Implement the menthod to read and import the csv file to MySql database
-        1. Test the functions
+        1. Test the table record and product
         
 1. Note
+    1. For the database
+        1. You need to add the location data in database by using the MySQL application.(Locationid is the primarykey. Address is the location of the wearhouse)
+        1. For the table record and product, if you import the same recordid or productid, it will replace the exited record data
+        
     1. The additem.csv is using to add new item to database
         1. Productid is the primarykey in table productid, you need to manutally increase it)
+        
     1. The addtransition.csv is using to add new transition for wearhouse
         1. Recordid is the primaryket in table record, you need to manutally increase it
         1. Locationid: You need to refer to location table to find the corresponding address
