@@ -31,4 +31,4 @@
         1. Number: if you try to transfer the product from one wearhouse to other, you need to input two record(e.g [Recordid, Locationid. Number, Productid]1,1,5,1 and 2,2,-5,1 which means you wish to transfer the productid1 from locationid2 to locationid1 and the number is 5)
      
 1. Credit
-    1. For the function of import the CSV file into Mysql Database using Spring Boot Application is from SHUBHAM KUMAR https://github.com/sk444/spring-boot-import-csv-file-app
+    1. For the function of import the CSV file into Mysql Database using Spring Boot Application is from https://github.com/sk444/spring-boot-import-csv-file-app
