@@ -1,8 +1,12 @@
 # HKTV Coding Interview 
+1. Introduction
+    1. For this project, it uses the Java Spring Framework for it. It includes the Spring Web, Spring Data JPA and MySQL Driver.
+    
 1. How to compile and start application?
     1. Import the HKTV_WEARHOUSE_DATABASE.sql to your personal Mysql database
     1. Use your IDE to import that project
-    1. For Example, go to the class SpringBootImportCsvFileAppApplication.java and click debug SpringBootImportCsvFileAppApplication.main() to run the program
+    1. For Example, go to the \src\main\java\com\pixeltrice\springbootimportcsvfileapp\SpringBootImportCsvFileAppApplication.java class SpringBootImportCsvFileAppApplication and click debug SpringBootImportCsvFileAppApplication.main() to run the program
+    1. You need to change the \src\main\resources\application.properties for your own MySql database setting
     
 1. The Daily schedule
     1. Day1
